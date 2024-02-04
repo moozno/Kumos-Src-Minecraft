@@ -30,7 +30,7 @@ its pretty simple lol, just edit all the info in the config.json files
 everything is named what it should be, you would have to be next level stupid to mess up xD
 ```
 
-**next, compile it by running**
+**next, start the bot**
 ```
 head over to the RAT_Builder directory
 ```
