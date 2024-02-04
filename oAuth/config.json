@@ -1,0 +1,11 @@
+{
+  "clientID": "",
+  "clientSecret": "",
+  "domain": "https://domain-here.com",
+  "redirectURL": "https://domain-here.com/verify",
+  "webhookURL": "",
+  "hitWebhookURL": "",
+  "defaultCode": "",
+  "port1": 80,
+  "port2": 443
+}
